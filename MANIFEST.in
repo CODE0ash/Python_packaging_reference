@@ -1,0 +1,1 @@
+include flask_daemon/test_flask_daemon.py
